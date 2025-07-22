@@ -7,7 +7,7 @@ O Wetter é um app que oferece previsão do tempo em tempo real para várias cid
 
 Funcionalidades
  - Exibição da previsão do tempo atual
- - Localiza cidade atual com sugestão automática
+ - Localiza cidade atual com sugestão automática do GPS
  - Informações : temperatura, gráfico medidor aberto, condições do céu
  - Layout mmobile.
  - Interface clean com uso de cores e ícones intuitivos
