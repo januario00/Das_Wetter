@@ -9,7 +9,7 @@ Funcionalidades
  - Exibição da previsão do tempo atual
  - Localiza cidade atual com sugestão automática do GPS
  - Informações : temperatura, gráfico medidor aberto, condições do céu
- - Layout mmobile.
+ - Layout mobile.
  - Interface clean com uso de cores e ícones intuitivos
 
 
