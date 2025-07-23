@@ -23,13 +23,6 @@ Como Usar
 Acesse o protótipo no Figma aqui
 https://www.figma.com/proto/Ra5y73elTfUJhAnITbkNpU/-Wetter?node-id=4-915&t=C9w7EU6DyMXaSS89-1
 
-Próximos Passos
+FINALIZADO
 
- - Teminar telas faltantes
- - Implementar a integração com API de clima real
-- Desenvolver versão funcional em React/HTML/CSS/JS
-
-Adicionar mais funcionalidades, como previsão por hora e alertas de clima severo
-
-Testar usabilidade com usuários reais e ajustar o design conforme feedback
 
